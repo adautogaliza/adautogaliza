@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Adauto de Galiza</h1>
 <h3 align="center">A passionate Data Scientist/Analytics from Brasil who is migrating from academic world to data universe.</h3>
 
-- 🌱 I’m currently learning **Cloud Computing for Data Science, such as: Spark, AWS, Google Cloude and Azure**
+- 🌱 I’m currently learning **Cloud Computing for Data Science, such as: Spark, AWS, Google Cloud and Azure**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/11xs1F9NxQ5k_0zJi4X1xe3JBr_hgOIkK?usp=sharing](https://drive.google.com/drive/folders/11xs1F9NxQ5k_0zJi4X1xe3JBr_hgOIkK?usp=sharing)
 
