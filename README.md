@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing for Data Science, such as: Spark, AWS, Google Cloude and Azure**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/11xs1F9NxQ5k_0zJi4X1xe3JBr_hgOIkK?usp=sharing or](https://drive.google.com/drive/folders/11xs1F9NxQ5k_0zJi4X1xe3JBr_hgOIkK?usp=sharing or)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/11xs1F9NxQ5k_0zJi4X1xe3JBr_hgOIkK?usp=sharing](https://drive.google.com/drive/folders/11xs1F9NxQ5k_0zJi4X1xe3JBr_hgOIkK?usp=sharing)
 
 - 💬 Ask me about **Economics, Political Science, Empirical Research and Data**
 
@@ -24,17 +24,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adautogaliza&show_icons=true&locale=en&layout=compact" alt="adautogaliza" /></p>
 
-<!--
-**adautogaliza/adautogaliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
