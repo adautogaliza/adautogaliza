@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing for Data Science, such as: Spark, AWS, Google Cloud and Azure**
 
-- 👨‍💻 All of my projects are available at [https://adautogaliza.wixsite.com/portfolio](https://drive.google.com/drive/folders/11xs1F9NxQ5k_0zJi4X1xe3JBr_hgOIkK?usp=sharing)
+- 👨‍💻 All of my projects are available at [here](https://adautogaliza.wixsite.com/portfolio)
 
 - 💬 Ask me about **Economics, Political Science, Empirical Research and Data**
 
