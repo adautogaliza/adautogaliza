@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/adauto-galiza/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fw4Bk4uaalpMFFkDni3F7tEwRSdHJuf7/view?usp=sharing](https://drive.google.com/file/d/1Fw4Bk4uaalpMFFkDni3F7tEwRSdHJuf7/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Fw4Bk4uaalpMFFkDni3F7tEwRSdHJuf7/view?usp=sharing)
 
 - ⚡ Fun fact **I am a hardcore gamer and passionate about literature. Yes, I spend some time playing and reading classical books :P**
 
